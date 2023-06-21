@@ -1,0 +1,6 @@
+module Pods_TelePrompter {
+  umbrella header "Pods-TelePrompter-umbrella.h"
+
+  export *
+  module * { export * }
+}
